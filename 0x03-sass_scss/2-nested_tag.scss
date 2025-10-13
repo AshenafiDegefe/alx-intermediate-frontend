@@ -1,0 +1,12 @@
+@function dinamic-margin($pixls){
+    @return $pixls * 2;
+}
+
+body {
+  margin: dinamic-margin(0px);
+  padding: dinamic-margin(0px); 
+}
+
+body p {
+  margin: dinamic-margin(5px); 
+}

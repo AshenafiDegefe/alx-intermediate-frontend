@@ -1,0 +1,3 @@
+Steps For Installing SASS
+Open Terminal on curent folder/dir and go to SASS Documntation page
+and use this cmd npm install -g sass/npm install sass -v 3.7.4
